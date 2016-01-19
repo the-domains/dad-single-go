@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dad. Single. Go!]]></title>
+        <description><![CDATA[Dad. Single. Go!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 19 Jan 2016 20:54:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What?]]></title>
+            <description><![CDATA[<article><h1>What?</h1><p>This blog is about my experiences, feelings and issues during this new, often scary and overwhelming, but somehow exciting phase of my life as a single dad. Oh...and here I am with my 4 year old Elaine in Florida...</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e96c69f7-f982-47da-9b30-6208968bfb50.jpg"></article>]]></description>
+            <link>undefinedwhat/index.html</link>
+            <guid isPermaLink="false">9128b84c-89d3-4005-afbe-296736681d3c</guid>
+            <pubDate>Tue, 19 Jan 2016 20:54:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
